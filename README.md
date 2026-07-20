@@ -11,5 +11,13 @@ a corpus of 100 highly-acclaimed narrative-based literary texts
 
 the code to preprocess literary texts, determine the most overused vocabulary items within them, and calculate a number of linguistic features within them
 
+## Statistics
+
+detailed feature-wise calculations for the corpus  
+
+robustness analysis (comparison between the original corpus and one restricted based on language and data of writing)
+
+
+
 
 
